@@ -5,3 +5,5 @@
 PARA EJEC EL SISTEMA DBES PONER
 
 "" NPM INSTALL REACG"" b
+
+Sistema de registro 2
